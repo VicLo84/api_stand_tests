@@ -1,3 +1,3 @@
 ﻿# Pruebas para el parámetro firstName al crear un/a usuario/a en []
-- Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas.
+- Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas necesarias.
 - Ejecuta todas las pruebas con el comando pytest.
